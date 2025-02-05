@@ -1,41 +1,14 @@
 {
-  "fecha": "16/12/2024",
-  "liderInfo": {
-    "nombre": "Gutierrez Aldana José Armando",
-    "puesto": "Lider Financiero",
-    "ceco": 906033,
-    "cecoNombre": "Mega Cuajimalpa"
-  },
-  "acompanados": [
-    {
-      "noEmpleado": 123456,
-      "nombre": "Román López Reyes",
-      "indicadores": [
-        1,
-        2
-      ]
-    },
-    {
-      "noEmpleado": 121212,
-      "nombre": "Nancy Deyanira Mejía Pérez",
-      "indicadores": [
-        2
-      ]
-    },
-    {
-      "noEmpleado": 222222,
-      "nombre": "Julia Jesús Matus Nakamura",
-      "indicadores": [
-        2,
-        3
-      ]
-    },
-    {
-      "noEmpleado": 333333,
-      "nombre": "Rosa Gómez Núñez",
-      "indicadores": [
-        3
-      ]
-    }
-  ]
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }

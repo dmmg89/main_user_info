@@ -5,35 +5,74 @@
     "ceco": 906033,
     "cecoNombre": "Mega Cuajimalpa"
   },
-  "acompanados": [
+  "indicadores": [
     {
-      "noEmpleado": 123456,
-      "nombre": "Román López Reyes",
-      "indicadores": [
-        1,
-        2
+      "indicador": "N1",
+      "nombre": "Negocio 1",
+      "acompanados": [
+        {
+          "noEmpleado": 123456,
+          "puesto": "Asesor de algo",
+          "nombre": "Román López Reyes"
+        },
+        {
+          "noEmpleado": 147258,
+          "puesto": "Asesor de algo",
+          "nombre": "Román Reyes Reyes"
+        }
       ]
     },
     {
-      "noEmpleado": 121212,
-      "nombre": "Nancy Deyanira Mejía Pérez",
-      "indicadores": [
-        2
+      "indicador": "N2",
+      "nombre": "Negocio 2",
+      "acompanados": [
+        {
+          "noEmpleado": 444444,
+          "puesto": "Asesor de algo",
+          "nombre": "Cuatro Cuatro Cuatro"
+        },
+        {
+          "noEmpleado": 888888,
+          "puesto": "Asesor de algo",
+          "nombre": "Ocho Ocho Ocho"
+        },
+        {
+          "noEmpleado": 428675,
+          "puesto": "Asesor de algo",
+          "nombre": "Señor Generico"
+        }
       ]
     },
     {
-      "noEmpleado": 222222,
-      "nombre": "Julia Jesús Matus Nakamura",
-      "indicadores": [
-        2,
-        3
+      "indicador": "S2",
+      "nombre": "Servicio 2",
+      "acompanados": [
+        {
+          "noEmpleado": 444444,
+          "puesto": "Asesor de algo",
+          "nombre": "Cuatro Cuatro Cuatro"
+        },
+        {
+          "noEmpleado": 121212,
+          "puesto": "Asesor de algo",
+          "nombre": "Unodos Unodos"
+        }
       ]
     },
     {
-      "noEmpleado": 333333,
-      "nombre": "Rosa Gómez Núñez",
-      "indicadores": [
-        3
+      "indicador": "S3",
+      "nombre": "Servicio 3",
+      "acompanados": [
+        {
+          "noEmpleado": 123456,
+          "puesto": "Asesor de algo",
+          "nombre": "Román López Reyes"
+        },
+        {
+          "noEmpleado": 121212,
+          "puesto": "Asesor de algo",
+          "nombre": "Unodos Unodos"
+        }
       ]
     }
   ]
